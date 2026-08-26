@@ -24,10 +24,21 @@ const products = {
     { id: "Rani", name: "راني", price: 100 }
   ],
   pastry: [
-    { id: "cheese-pastry", name: "فطيرة جبنة", price: 120 },
-    { id: "zaatar-pastry", name: "فطيرة زعتر", price: 90 },
-    { id: "meat-pastry", name: "فطيرة لحمة", price: 150 },
-    { id: "mix-pastry", name: "فطيرة مشكلة", price: 150 }
+    { id: "cheese50", name: "فطيرة", price: 50 },
+    { id: "cheese80", name: "فطيرة", price: 80 },
+    { id: "cheese100", name: "فطيرة", price: 100 },
+    { id: "cheese130", name: "فطيرة", price: 130 },
+    { id: "cheese150", name: "فطيرة", price: 150 },
+    { id: "cheese160", name: "فطيرة", price: 160 },
+    { id: "cheese180", name: "فطيرة", price: 180 },
+    { id: "cheese200", name: "فطيرة", price: 200 },
+    { id: "cheese250", name: "فطيرة", price: 250 },
+    { id: "cheese300", name: "فطيرة", price: 300 },
+    { id: "cheese380", name: "فطيرة", price: 380 },
+    { id: "cheese600", name: "فطيرة", price: 600 },
+    { id: "Sandwich25", name: "سندويش", price: 25 },
+    { id: "Sandwich100", name: "سندويش", price: 100 },
+    { id: "cheese150", name: "سندويش", price: 150 }
   ]
 };
 
